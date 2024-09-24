@@ -1,0 +1,146 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto Condensed", sans-serif;
+  font-style: normal;
+  font-weight: weight;
+}
+
+/* Header section is Start */
+
+.header {
+  height: 90px;
+}
+.subheader {
+  height: 100%;
+  width: 95%;
+  /* border: 1px solid red; */
+}
+.all {
+  width: 7%;
+  /* border: 1px solid black; */
+}
+.logo {
+  width: 10%;
+  /* border: 1px solid black; */
+}
+.logo img {
+  width: 80%;
+}
+.search {
+  width: 45%;
+  /* border: 1px solid black; */
+}
+.call {
+  width: 7%;
+  /* border: 1px solid black; */
+}
+.signs {
+  width: 23%;
+  /* border: 1px solid black; */
+}
+
+/* Header section is over */
+
+/* Sub-header section is Start */
+
+.categories {
+  /* border: 1px solid black; */
+  height: 250px;
+}
+.cs {
+  height: 100%;
+  width: 90%;
+  /* border: 1px solid red; */
+}
+.cs .c1,
+.cs .c2,
+.cs .c3,
+.cs .c4,
+.cs .c5,
+.cs .c6,
+.cs .c7,
+.cs .c8 {
+  height: 55%;
+  width: 7%;
+  /* border: 1px solid firebrick; */
+}
+.c1 img,
+.c2 img,
+.c3 img,
+.c4 img,
+.c5 img,
+.c6 img,
+.c7 img,
+.c8 img {
+  height: 100%;
+  width: 100%;
+}
+/* Sub-header section is over */
+
+.gets {
+  width: 100%;
+}
+.gets img {
+  width: 100%;
+}
+.g {
+  width: 100%;
+}
+.g img {
+  width: 100%;
+}
+
+.new-arrivals {
+  width: 100%;
+}
+.new-arrivals img {
+  width: 100%;
+}
+#new {
+  width: 80%;
+}
+.season-arrivals {
+  width: 100%;
+}
+.season-arrivals img {
+  width: 100%;
+}
+.shop {
+  width: 100%;
+}
+.shop .row {
+  width: 80%;
+}
+.blog .row {
+  width: 80%;
+}
+
+/* footer {
+  width: 100%;
+}
+footer .row {
+  width: 96%;
+} */
+
+footer {
+  width: 100%;
+}
+footer .rowsd {
+  width: 98%;
+}
+.o {
+  width: 75%;
+  background-color: rgb(239 241 243);
+  height: 120px;
+}
+#ed {
+  width: 24%;
+  background-color: rgb(239 241 243);
+  height: 120px;
+}
+.oe {
+  width: 75%;
+  /* background-color: rgb(239 241 243); */
+}
